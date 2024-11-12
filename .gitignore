@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+__init__.py
+
+datasets/*
+outputs/*
+!outputs/
+!datasets/

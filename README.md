@@ -38,7 +38,7 @@ rag-team-formation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/?/Retrieval-Augmented-Neural-Team-Formation.git
+   git clone https://github.com/MohammadDara/Retrieval-Augmented-Neural-Team-Formation.git
    cd Retrieval-Augmented-Neural-Team-Formation
    ```
 
